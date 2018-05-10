@@ -1,0 +1,2 @@
+in terminal go to project folder and enter
+live-server public
